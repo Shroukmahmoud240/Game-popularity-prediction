@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+vaderSentiment
+joblib
+xgboost
+lightgbm
+catboost
+tabulate
+tensorflow
+keras
